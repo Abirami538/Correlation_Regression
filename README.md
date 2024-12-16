@@ -63,7 +63,8 @@ plt.legend(['Regression Line','Data points'])
 
 Output :
 
-![Uploading Screenshot 2024-12-16 093028.png…]()
+![Screenshot 2024-12-16 152716](https://github.com/user-attachments/assets/861dacd9-58da-4794-a225-7d9f3d3fd87b)
+
 
 
 
