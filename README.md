@@ -1,4 +1,8 @@
-# Correlation and regression for data analysis
+Exp 3:Correlation and regression for data analysis
+
+NAME: ABIRAMI A
+
+REGISTER NO:212224040010
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
@@ -21,12 +25,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 
-
-DEVELOPED BY: ABIRAMI A
-
-REGISTER NO: 24900822
-
-~~~import numpy as np
+~~~
+import numpy as np
 import math
 import matplotlib.pyplot as plt
 x=[ int(i) for i in input().split()]
